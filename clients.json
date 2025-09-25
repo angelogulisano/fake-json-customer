@@ -1,0 +1,802 @@
+[
+  {
+    "id": 1,
+    "name": "Client 1",
+    "url": "https://www.apple.com",
+    "description": "Client 1 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-03-22",
+    "email": "contact1@example.com"
+  },
+  {
+    "id": 2,
+    "name": "Client 2",
+    "url": "https://www.paypal.com",
+    "description": "Client 2 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-02-26",
+    "email": "contact2@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Client 3",
+    "url": "https://www.coca-cola.com",
+    "description": "Client 3 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-03-17",
+    "email": "contact3@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Client 4",
+    "url": "https://www.airbnb.com",
+    "description": "Client 4 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-05-10",
+    "email": "contact4@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Client 5",
+    "url": "https://www.salesforce.com",
+    "description": "Client 5 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-10-15",
+    "email": "contact5@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Client 6",
+    "url": "https://www.adobe.com",
+    "description": "Client 6 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-05-13",
+    "email": "contact6@example.com"
+  },
+  {
+    "id": 7,
+    "name": "Client 7",
+    "url": "https://www.sony.com",
+    "description": "Client 7 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-02-24",
+    "email": "contact7@example.com"
+  },
+  {
+    "id": 8,
+    "name": "Client 8",
+    "url": "https://www.hp.com",
+    "description": "Client 8 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-02-06",
+    "email": "contact8@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Client 9",
+    "url": "https://www.airbnb.com",
+    "description": "Client 9 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-04-16",
+    "email": "contact9@example.com"
+  },
+  {
+    "id": 10,
+    "name": "Client 10",
+    "url": "https://www.salesforce.com",
+    "description": "Client 10 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-02-15",
+    "email": "contact10@example.com"
+  },
+  {
+    "id": 11,
+    "name": "Client 11",
+    "url": "https://www.paypal.com",
+    "description": "Client 11 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-02-07",
+    "email": "contact11@example.com"
+  },
+  {
+    "id": 12,
+    "name": "Client 12",
+    "url": "https://www.dell.com",
+    "description": "Client 12 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-02-21",
+    "email": "contact12@example.com"
+  },
+  {
+    "id": 13,
+    "name": "Client 13",
+    "url": "https://www.samsung.com",
+    "description": "Client 13 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-08-09",
+    "email": "contact13@example.com"
+  },
+  {
+    "id": 14,
+    "name": "Client 14",
+    "url": "https://www.linkedin.com",
+    "description": "Client 14 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-03-31",
+    "email": "contact14@example.com"
+  },
+  {
+    "id": 15,
+    "name": "Client 15",
+    "url": "https://www.tesla.com",
+    "description": "Client 15 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-08-11",
+    "email": "contact15@example.com"
+  },
+  {
+    "id": 16,
+    "name": "Client 16",
+    "url": "https://www.adobe.com",
+    "description": "Client 16 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-09-07",
+    "email": "contact16@example.com"
+  },
+  {
+    "id": 17,
+    "name": "Client 17",
+    "url": "https://www.netflix.com",
+    "description": "Client 17 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-02-13",
+    "email": "contact17@example.com"
+  },
+  {
+    "id": 18,
+    "name": "Client 18",
+    "url": "https://www.netflix.com",
+    "description": "Client 18 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-09-05",
+    "email": "contact18@example.com"
+  },
+  {
+    "id": 19,
+    "name": "Client 19",
+    "url": "https://www.apple.com",
+    "description": "Client 19 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-08-03",
+    "email": "contact19@example.com"
+  },
+  {
+    "id": 20,
+    "name": "Client 20",
+    "url": "https://www.netflix.com",
+    "description": "Client 20 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-04-29",
+    "email": "contact20@example.com"
+  },
+  {
+    "id": 21,
+    "name": "Client 21",
+    "url": "https://www.spotify.com",
+    "description": "Client 21 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-02-11",
+    "email": "contact21@example.com"
+  },
+  {
+    "id": 22,
+    "name": "Client 22",
+    "url": "https://www.coca-cola.com",
+    "description": "Client 22 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-05-01",
+    "email": "contact22@example.com"
+  },
+  {
+    "id": 23,
+    "name": "Client 23",
+    "url": "https://www.linkedin.com",
+    "description": "Client 23 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-10-10",
+    "email": "contact23@example.com"
+  },
+  {
+    "id": 24,
+    "name": "Client 24",
+    "url": "https://www.netflix.com",
+    "description": "Client 24 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-01-06",
+    "email": "contact24@example.com"
+  },
+  {
+    "id": 25,
+    "name": "Client 25",
+    "url": "https://www.netflix.com",
+    "description": "Client 25 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-09-06",
+    "email": "contact25@example.com"
+  },
+  {
+    "id": 26,
+    "name": "Client 26",
+    "url": "https://www.adobe.com",
+    "description": "Client 26 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-12-25",
+    "email": "contact26@example.com"
+  },
+  {
+    "id": 27,
+    "name": "Client 27",
+    "url": "https://www.nike.com",
+    "description": "Client 27 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-01-10",
+    "email": "contact27@example.com"
+  },
+  {
+    "id": 28,
+    "name": "Client 28",
+    "url": "https://www.dell.com",
+    "description": "Client 28 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-09-28",
+    "email": "contact28@example.com"
+  },
+  {
+    "id": 29,
+    "name": "Client 29",
+    "url": "https://www.coca-cola.com",
+    "description": "Client 29 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-05-26",
+    "email": "contact29@example.com"
+  },
+  {
+    "id": 30,
+    "name": "Client 30",
+    "url": "https://www.salesforce.com",
+    "description": "Client 30 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-12-26",
+    "email": "contact30@example.com"
+  },
+  {
+    "id": 31,
+    "name": "Client 31",
+    "url": "https://www.samsung.com",
+    "description": "Client 31 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-01-08",
+    "email": "contact31@example.com"
+  },
+  {
+    "id": 32,
+    "name": "Client 32",
+    "url": "https://www.adobe.com",
+    "description": "Client 32 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-10-26",
+    "email": "contact32@example.com"
+  },
+  {
+    "id": 33,
+    "name": "Client 33",
+    "url": "https://www.paypal.com",
+    "description": "Client 33 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-08-04",
+    "email": "contact33@example.com"
+  },
+  {
+    "id": 34,
+    "name": "Client 34",
+    "url": "https://www.tesla.com",
+    "description": "Client 34 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-09-17",
+    "email": "contact34@example.com"
+  },
+  {
+    "id": 35,
+    "name": "Client 35",
+    "url": "https://www.microsoft.com",
+    "description": "Client 35 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-03-22",
+    "email": "contact35@example.com"
+  },
+  {
+    "id": 36,
+    "name": "Client 36",
+    "url": "https://www.adobe.com",
+    "description": "Client 36 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-02-26",
+    "email": "contact36@example.com"
+  },
+  {
+    "id": 37,
+    "name": "Client 37",
+    "url": "https://www.spotify.com",
+    "description": "Client 37 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-09-25",
+    "email": "contact37@example.com"
+  },
+  {
+    "id": 38,
+    "name": "Client 38",
+    "url": "https://www.airbnb.com",
+    "description": "Client 38 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-09-05",
+    "email": "contact38@example.com"
+  },
+  {
+    "id": 39,
+    "name": "Client 39",
+    "url": "https://www.samsung.com",
+    "description": "Client 39 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-09-28",
+    "email": "contact39@example.com"
+  },
+  {
+    "id": 40,
+    "name": "Client 40",
+    "url": "https://www.microsoft.com",
+    "description": "Client 40 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-07-16",
+    "email": "contact40@example.com"
+  },
+  {
+    "id": 41,
+    "name": "Client 41",
+    "url": "https://www.ibm.com",
+    "description": "Client 41 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-12-04",
+    "email": "contact41@example.com"
+  },
+  {
+    "id": 42,
+    "name": "Client 42",
+    "url": "https://www.nike.com",
+    "description": "Client 42 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-05-15",
+    "email": "contact42@example.com"
+  },
+  {
+    "id": 43,
+    "name": "Client 43",
+    "url": "https://www.ibm.com",
+    "description": "Client 43 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-08-27",
+    "email": "contact43@example.com"
+  },
+  {
+    "id": 44,
+    "name": "Client 44",
+    "url": "https://www.airbnb.com",
+    "description": "Client 44 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-08-16",
+    "email": "contact44@example.com"
+  },
+  {
+    "id": 45,
+    "name": "Client 45",
+    "url": "https://www.coca-cola.com",
+    "description": "Client 45 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-09-22",
+    "email": "contact45@example.com"
+  },
+  {
+    "id": 46,
+    "name": "Client 46",
+    "url": "https://www.linkedin.com",
+    "description": "Client 46 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-05-06",
+    "email": "contact46@example.com"
+  },
+  {
+    "id": 47,
+    "name": "Client 47",
+    "url": "https://www.sony.com",
+    "description": "Client 47 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-05-01",
+    "email": "contact47@example.com"
+  },
+  {
+    "id": 48,
+    "name": "Client 48",
+    "url": "https://www.dell.com",
+    "description": "Client 48 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-10-20",
+    "email": "contact48@example.com"
+  },
+  {
+    "id": 49,
+    "name": "Client 49",
+    "url": "https://www.airbnb.com",
+    "description": "Client 49 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-06-24",
+    "email": "contact49@example.com"
+  },
+  {
+    "id": 50,
+    "name": "Client 50",
+    "url": "https://www.dell.com",
+    "description": "Client 50 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-01-23",
+    "email": "contact50@example.com"
+  },
+  {
+    "id": 51,
+    "name": "Client 51",
+    "url": "https://www.hp.com",
+    "description": "Client 51 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-08-07",
+    "email": "contact51@example.com"
+  },
+  {
+    "id": 52,
+    "name": "Client 52",
+    "url": "https://www.adobe.com",
+    "description": "Client 52 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-12-31",
+    "email": "contact52@example.com"
+  },
+  {
+    "id": 53,
+    "name": "Client 53",
+    "url": "https://www.adobe.com",
+    "description": "Client 53 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-12-08",
+    "email": "contact53@example.com"
+  },
+  {
+    "id": 54,
+    "name": "Client 54",
+    "url": "https://www.paypal.com",
+    "description": "Client 54 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-07-09",
+    "email": "contact54@example.com"
+  },
+  {
+    "id": 55,
+    "name": "Client 55",
+    "url": "https://www.apple.com",
+    "description": "Client 55 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-01-24",
+    "email": "contact55@example.com"
+  },
+  {
+    "id": 56,
+    "name": "Client 56",
+    "url": "https://www.tesla.com",
+    "description": "Client 56 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-04-27",
+    "email": "contact56@example.com"
+  },
+  {
+    "id": 57,
+    "name": "Client 57",
+    "url": "https://www.amazon.com",
+    "description": "Client 57 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-08-02",
+    "email": "contact57@example.com"
+  },
+  {
+    "id": 58,
+    "name": "Client 58",
+    "url": "https://www.nike.com",
+    "description": "Client 58 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-05-22",
+    "email": "contact58@example.com"
+  },
+  {
+    "id": 59,
+    "name": "Client 59",
+    "url": "https://www.linkedin.com",
+    "description": "Client 59 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-06-08",
+    "email": "contact59@example.com"
+  },
+  {
+    "id": 60,
+    "name": "Client 60",
+    "url": "https://www.microsoft.com",
+    "description": "Client 60 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-11-09",
+    "email": "contact60@example.com"
+  },
+  {
+    "id": 61,
+    "name": "Client 61",
+    "url": "https://www.apple.com",
+    "description": "Client 61 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-02-17",
+    "email": "contact61@example.com"
+  },
+  {
+    "id": 62,
+    "name": "Client 62",
+    "url": "https://www.amazon.com",
+    "description": "Client 62 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-10-15",
+    "email": "contact62@example.com"
+  },
+  {
+    "id": 63,
+    "name": "Client 63",
+    "url": "https://www.adobe.com",
+    "description": "Client 63 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-03-13",
+    "email": "contact63@example.com"
+  },
+  {
+    "id": 64,
+    "name": "Client 64",
+    "url": "https://www.spotify.com",
+    "description": "Client 64 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-11-17",
+    "email": "contact64@example.com"
+  },
+  {
+    "id": 65,
+    "name": "Client 65",
+    "url": "https://www.oracle.com",
+    "description": "Client 65 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-09-11",
+    "email": "contact65@example.com"
+  },
+  {
+    "id": 66,
+    "name": "Client 66",
+    "url": "https://www.paypal.com",
+    "description": "Client 66 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-11-15",
+    "email": "contact66@example.com"
+  },
+  {
+    "id": 67,
+    "name": "Client 67",
+    "url": "https://www.paypal.com",
+    "description": "Client 67 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-04-14",
+    "email": "contact67@example.com"
+  },
+  {
+    "id": 68,
+    "name": "Client 68",
+    "url": "https://www.netflix.com",
+    "description": "Client 68 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-08-30",
+    "email": "contact68@example.com"
+  },
+  {
+    "id": 69,
+    "name": "Client 69",
+    "url": "https://www.linkedin.com",
+    "description": "Client 69 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-01-08",
+    "email": "contact69@example.com"
+  },
+  {
+    "id": 70,
+    "name": "Client 70",
+    "url": "https://www.tesla.com",
+    "description": "Client 70 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-03-04",
+    "email": "contact70@example.com"
+  },
+  {
+    "id": 71,
+    "name": "Client 71",
+    "url": "https://www.salesforce.com",
+    "description": "Client 71 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-10-28",
+    "email": "contact71@example.com"
+  },
+  {
+    "id": 72,
+    "name": "Client 72",
+    "url": "https://www.salesforce.com",
+    "description": "Client 72 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-05-23",
+    "email": "contact72@example.com"
+  },
+  {
+    "id": 73,
+    "name": "Client 73",
+    "url": "https://www.oracle.com",
+    "description": "Client 73 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-08-21",
+    "email": "contact73@example.com"
+  },
+  {
+    "id": 74,
+    "name": "Client 74",
+    "url": "https://www.paypal.com",
+    "description": "Client 74 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-12-15",
+    "email": "contact74@example.com"
+  },
+  {
+    "id": 75,
+    "name": "Client 75",
+    "url": "https://www.sony.com",
+    "description": "Client 75 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-08-10",
+    "email": "contact75@example.com"
+  },
+  {
+    "id": 76,
+    "name": "Client 76",
+    "url": "https://www.hp.com",
+    "description": "Client 76 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-01-22",
+    "email": "contact76@example.com"
+  },
+  {
+    "id": 77,
+    "name": "Client 77",
+    "url": "https://www.salesforce.com",
+    "description": "Client 77 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-05-20",
+    "email": "contact77@example.com"
+  },
+  {
+    "id": 78,
+    "name": "Client 78",
+    "url": "https://www.paypal.com",
+    "description": "Client 78 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-01-01",
+    "email": "contact78@example.com"
+  },
+  {
+    "id": 79,
+    "name": "Client 79",
+    "url": "https://www.microsoft.com",
+    "description": "Client 79 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-01-22",
+    "email": "contact79@example.com"
+  },
+  {
+    "id": 80,
+    "name": "Client 80",
+    "url": "https://www.hp.com",
+    "description": "Client 80 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-05-11",
+    "email": "contact80@example.com"
+  },
+  {
+    "id": 81,
+    "name": "Client 81",
+    "url": "https://www.tesla.com",
+    "description": "Client 81 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-08-12",
+    "email": "contact81@example.com"
+  },
+  {
+    "id": 82,
+    "name": "Client 82",
+    "url": "https://www.ibm.com",
+    "description": "Client 82 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-07-12",
+    "email": "contact82@example.com"
+  },
+  {
+    "id": 83,
+    "name": "Client 83",
+    "url": "https://www.amazon.com",
+    "description": "Client 83 is a valued customer providing innovative solutions.",
+    "createdDate": "2018-10-28",
+    "email": "contact83@example.com"
+  },
+  {
+    "id": 84,
+    "name": "Client 84",
+    "url": "https://www.adobe.com",
+    "description": "Client 84 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-03-27",
+    "email": "contact84@example.com"
+  },
+  {
+    "id": 85,
+    "name": "Client 85",
+    "url": "https://www.dell.com",
+    "description": "Client 85 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-04-17",
+    "email": "contact85@example.com"
+  },
+  {
+    "id": 86,
+    "name": "Client 86",
+    "url": "https://www.coca-cola.com",
+    "description": "Client 86 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-05-01",
+    "email": "contact86@example.com"
+  },
+  {
+    "id": 87,
+    "name": "Client 87",
+    "url": "https://www.samsung.com",
+    "description": "Client 87 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-12-07",
+    "email": "contact87@example.com"
+  },
+  {
+    "id": 88,
+    "name": "Client 88",
+    "url": "https://www.dell.com",
+    "description": "Client 88 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-09-25",
+    "email": "contact88@example.com"
+  },
+  {
+    "id": 89,
+    "name": "Client 89",
+    "url": "https://www.intel.com",
+    "description": "Client 89 is a valued customer providing innovative solutions.",
+    "createdDate": "2023-01-08",
+    "email": "contact89@example.com"
+  },
+  {
+    "id": 90,
+    "name": "Client 90",
+    "url": "https://www.oracle.com",
+    "description": "Client 90 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-06-14",
+    "email": "contact90@example.com"
+  },
+  {
+    "id": 91,
+    "name": "Client 91",
+    "url": "https://www.ibm.com",
+    "description": "Client 91 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-06-27",
+    "email": "contact91@example.com"
+  },
+  {
+    "id": 92,
+    "name": "Client 92",
+    "url": "https://www.intel.com",
+    "description": "Client 92 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-06-19",
+    "email": "contact92@example.com"
+  },
+  {
+    "id": 93,
+    "name": "Client 93",
+    "url": "https://www.apple.com",
+    "description": "Client 93 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-10-18",
+    "email": "contact93@example.com"
+  },
+  {
+    "id": 94,
+    "name": "Client 94",
+    "url": "https://www.amazon.com",
+    "description": "Client 94 is a valued customer providing innovative solutions.",
+    "createdDate": "2022-08-14",
+    "email": "contact94@example.com"
+  },
+  {
+    "id": 95,
+    "name": "Client 95",
+    "url": "https://www.oracle.com",
+    "description": "Client 95 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-08-05",
+    "email": "contact95@example.com"
+  },
+  {
+    "id": 96,
+    "name": "Client 96",
+    "url": "https://www.samsung.com",
+    "description": "Client 96 is a valued customer providing innovative solutions.",
+    "createdDate": "2020-10-29",
+    "email": "contact96@example.com"
+  },
+  {
+    "id": 97,
+    "name": "Client 97",
+    "url": "https://www.sony.com",
+    "description": "Client 97 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-03-25",
+    "email": "contact97@example.com"
+  },
+  {
+    "id": 98,
+    "name": "Client 98",
+    "url": "https://www.apple.com",
+    "description": "Client 98 is a valued customer providing innovative solutions.",
+    "createdDate": "2021-01-05",
+    "email": "contact98@example.com"
+  },
+  {
+    "id": 99,
+    "name": "Client 99",
+    "url": "https://www.paypal.com",
+    "description": "Client 99 is a valued customer providing innovative solutions.",
+    "createdDate": "2024-02-27",
+    "email": "contact99@example.com"
+  },
+  {
+    "id": 100,
+    "name": "Client 100",
+    "url": "https://www.adobe.com",
+    "description": "Client 100 is a valued customer providing innovative solutions.",
+    "createdDate": "2019-08-19",
+    "email": "contact100@example.com"
+  }
+]
